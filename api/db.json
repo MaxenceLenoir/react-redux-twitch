@@ -12,9 +12,14 @@
     },
     {
       "title": "MyRealStream",
-      "description": "This is a stream with id",
-      "userId": "100566368145526886331",
+      "description": "Changing stuff",
       "id": 3
+    },
+    {
+      "title": "NewTestForPatch",
+      "description": "Ca marche avec Patch ??",
+      "userId": "100566368145526886331",
+      "id": 4
     }
   ]
 }
