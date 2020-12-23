@@ -4,6 +4,17 @@
       "title": "MyStream",
       "description": "Great Stream",
       "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "Here a second stream",
+      "id": 2
+    },
+    {
+      "title": "MyRealStream",
+      "description": "This is a stream with id",
+      "userId": "100566368145526886331",
+      "id": 3
     }
   ]
 }
